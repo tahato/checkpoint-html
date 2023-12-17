@@ -1,0 +1,30 @@
+<div style="text-align: center;">
+  <ul type="disq">
+    <li><img src="4" alt=""height="20"width="40"></li>
+<li><img src="5" alt=""height="20"width="40"></li>
+<li><img src="6" alt="pas d'image"height="20"width="40"></li>
+  </ul></div>
+
+
+
+   <form>
+      
+       
+       
+       
+      </form>
+    </section>
+    <section><!--contact-->
+    <h1><strong>CONTACT US</strong></h1>
+    <div>
+      <dl>
+   <dt> </dt>
+    <dd><select name="probleme" id="">
+      
+    </dl>
+    </select>
+    </div>
+    <br><div>
+
+     
+   
